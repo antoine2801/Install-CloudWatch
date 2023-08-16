@@ -1,6 +1,6 @@
-![image](https://github.com/antoine2801/Install-CloudWatch/assets/141557235/273fd561-2ad8-4b33-99bb-bf23cbd114d7)<h1>Install CloudWatch </h1>
+<h1>Install CloudWatch </h1>
 <h2>Description</h2>
-In this [DEMO] lesson I will download and install the CloudWatch Agent and configure it to capture 3 log files from an EC2 instance
+In this project I will download and install the CloudWatch Agent and configure it to capture 3 log files from an EC2 instance
 
 / var / log / secure
 
