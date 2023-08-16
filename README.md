@@ -1,4 +1,4 @@
-<h1>Install CloudWatch </h1>
+![image](https://github.com/antoine2801/Install-CloudWatch/assets/141557235/273fd561-2ad8-4b33-99bb-bf23cbd114d7)<h1>Install CloudWatch </h1>
 <h2>Description</h2>
 In this [DEMO] lesson I will download and install the CloudWatch Agent and configure it to capture 3 log files from an EC2 instance
 
@@ -30,4 +30,9 @@ I  will also configure an instance role allowing the agent to store the above co
 <h3> Config CloudWatch   <h3/>
 <img src="https://i.imgur.com/VOio5DZ.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
 
-<h3> Config CloudWatch   <h3/>
+<h3> Store Config CloudWatch inside Parameter Store   <h3/> 
+img src="https://i.imgur.com/JjeWznB.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
+
+<h3> Test Log and Metrics   <h3/>
+ img src="https://i.imgur.com/p1uFqGk.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
+img src="https://i.imgur.com/fCzGnfd.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
