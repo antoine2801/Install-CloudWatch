@@ -30,9 +30,10 @@ I  will also configure an instance role allowing the agent to store the above co
 <h3> Config CloudWatch   <h3/>
 <img src="https://i.imgur.com/VOio5DZ.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
 
-<h3> Store Config CloudWatch inside Parameter Store   <h3/> 
-img src="https://i.imgur.com/JjeWznB.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
 
 <h3> Test Log and Metrics   <h3/>
- img src="https://i.imgur.com/p1uFqGk.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
-img src="https://i.imgur.com/fCzGnfd.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
+
+
+
+<img src="https://i.imgur.com/2YZT7dS.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
+<img src="https://i.imgur.com/nO6djOQ.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
